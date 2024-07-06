@@ -1,0 +1,18 @@
+torch
+pytorch-lightning
+pytorch-forecasting
+pandas
+numpy
+pathlib
+seaborn
+matplotlib
+xgboost
+scikit-learn
+datetime
+plotly
+dash
+dash-core-components
+dash-html-components
+color_palette
+create_feature
+ add_lags
